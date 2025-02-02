@@ -1,0 +1,17 @@
+.
+├── Summary.txt
+├── Rld-2
+│   ├── ERR11437322.fastq.gz
+│   ├── ERR11437351.fastq
+│   └── read_length.txt
+├── RNAseq_Sha
+│   ├── ERR754081_1.fastq.gz
+│   ├── ERR754081_1_filtered.fastq.gz
+│   ├── ERR754081_2.fastq.gz
+│   └── ERR754081_2_filtered.fastq.gz
+└── TAIR
+    ├── Arabidopsis_thaliana.TAIR10.dna.toplevel.fa
+    ├── Arabidopsis_thaliana.TAIR10.dna.toplevel.fa.fai
+    └── TAIR10_cds_20110103_representative_gene_model_updated.fa
+
+3 directories, 11 files
